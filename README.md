@@ -1,5 +1,13 @@
-### Hi there 👋
+## <div align="center">Hey What's Up, I'm Josue Bautista 👋 </div>
+### <div align="center">About me 👨‍🚀</div>
+----------
+- I am 
+<p align="center">
+  <a href="https://www.kaggle.com/josuebautista"><img src="https://img.shields.io/badge/-Kaggle-Kaggle?style=flat-square&logo=kaggle&logoColor=%23127dff&labelColor=%23e6e6e6&color=%23e6e6e6" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/josue-bautista-quiroz-02b97026a/"><img src="https://img.shields.io/badge/-Linkedin-Linkedin?style=flat-square&logo=linkedin&logoColor=%23e6e6e6&labelColor=%230259c4&color=%230259c4" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:me@josuebautista.com"><img src="https://img.shields.io/badge/-me%40josuebautista.com-Email?style=flat-square&logo=gmail&logoColor=%232e2e2e&labelColor=%23d9ca02&color=%23d9ca02" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+</p>
 <!--
 **APoodle/APoodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
