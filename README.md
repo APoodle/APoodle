@@ -1,3 +1,5 @@
+<img src="Github-Banner.png"></img>
+
 ## <div align="center">Hey What's Up, I'm Josue Bautista 👋 </div>
 ### <div align="center">About Me 👨‍🚀</div>
 - 🌱 I am pursuing a career in Data, currently learning Power BI 🌱
