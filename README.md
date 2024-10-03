@@ -2,10 +2,10 @@
 
 ## <div align="center">Hey What's Up, I'm Josue Bautista 👋 </div>
 ### <div align="center">About Me 👨‍🚀</div>
-- 🌱 I am pursuing a career in Data, currently learning Power BI 🌱
-- 👨‍💻 I am currently working on a Kaggle Playground Competition 👨‍💻
-- 🙇‍♂️ Hoping to use GitHub to learn more and improve my skills 🙇‍♂️
-- 💬 Besides learning data analytics and machine learning, I have a huge interest in language learning! 💬
+- 🌱 I am pursuing a career in Data, but currently learning React 🌱
+- 👨‍💻 I am currently working on a Kaggle Playground Competition and a Pokémon Team Builder 👨‍💻
+- 🙇‍♂️ Hoping to use GitHub to show off my skills and learn 🙇‍♂️
+- 💬 Besides learning data analytics, machine learning web development, I have a huge interest in language learning! 💬
 
 ### <div align="center">Main Technology Knowledge 📚</div>
 <p align="center">
